@@ -92,7 +92,7 @@ optional arguments:
 
 ```
 ═══════════════════════════════════════════════════════════════
-║ Enhanced Cache Poisoning Scanner v4.2                       ║
+║ Enhanced Cache Poisoning Scanner v2.0                       ║
 ║ Advanced Web Cache Vulnerability Detection                  ║
 ═══════════════════════════════════════════════════════════════
 
